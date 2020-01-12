@@ -3,7 +3,11 @@ import { CardList } from './components/card-list/card-list.component';
 import { Search } from './components/search/search.component'
 import './App.css';
 
+<<<<<<< HEAD
 //newFeature branch conflict!
+=======
+//bigFeature branch explanation
+>>>>>>> master
 class App extends Component {
 
   constructor() {
