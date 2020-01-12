@@ -3,7 +3,7 @@ import { CardList } from './components/card-list/card-list.component';
 import { Search } from './components/search/search.component'
 import './App.css';
 
-//changes by Aris
+//CHANGES ARIS
 class App extends Component {
 
   constructor() {
